@@ -1,0 +1,7 @@
+.team-card{
+    display: inline-block;
+    margin: 10px;
+    padding:10px;
+    background-color: #fff;
+    border-radius: 5px;
+}
